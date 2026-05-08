@@ -139,7 +139,7 @@
                         <div class="carousel-text">
                             <h1 class="display-1 text-uppercase mb-3">Together for a Better Tomorrow</h1>
                             <p class="fs-5 mb-5">We believe in creating opportunities and empowering communities through
-                                education, healthcare, and sustainable development.</p>
+                                education, healthcare, and sustainable development that will put smiles on the faces of many.</p>
                             <div class="d-flex">
                                 <a class="btn btn-primary py-3 px-4 me-3" href="#!">Donate Now</a>
                                 <a class="btn btn-secondary py-3 px-4" href="#!">Join Us Now</a>
